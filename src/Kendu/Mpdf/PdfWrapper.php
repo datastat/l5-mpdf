@@ -1,6 +1,8 @@
 <?php
 namespace Kendu\Mpdf;
 
+error_reporting(0); 
+
 /**
  * A Laravel wrapper for mPDF
  *
